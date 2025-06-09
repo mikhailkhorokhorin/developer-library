@@ -65,11 +65,11 @@
 
 ### <a name="computer-science"></a> **Computer Science**
 - [Code. The Hidden Language of Computer Hardware and Software](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/Code.%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software)
-- [The Art of Computer Programming. Volume 1. Fundamental Alhorithms](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%201.%20Fundamental%20Alhorithms)
-- [The Art of Computer Programming. Volume 2. Seminumerical Alhorithms
+- [The Art of Computer Programming. Volume 1. Fundamental Algorithms](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%201.%20Fundamental%20Alhorithms)
+- [The Art of Computer Programming. Volume 2. Seminumerical Algorithms
 ](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%202.%20Seminumerical%20Alhorithms)
 - [The Art of Computer Programming. Volume 3. Sorting and Searching](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%203.%20Sorting%20and%20Searching)
-- [The Art of Computer Programming. Volume 4A. Combinatorial Alhorithms](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%204A.%20Combinatorial%20Alhorithms)
+- [The Art of Computer Programming. Volume 4A. Combinatorial Algorithms](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%204A.%20Combinatorial%20Alhorithms)
 
 ### <a name="devops"></a> **DevOps**
 - [Release it! Design and Deploy Production-Ready Software](https://github.com/mikhailkhorokhorin/developer-library/tree/main/books/devops/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
