@@ -3,7 +3,7 @@
   <h1>
     <span style="vertical-align: middle;">Developer Library</span>
   </h1>
-    <a href="i18n/README_ru.md">English README</a> |
+    <a href="../README.md">English README</a> |
     <a href="#navigation">Навигация</a> |
     <a href="#categories">Категории</a> |
     <a href="#contribution">Содействие</a>
