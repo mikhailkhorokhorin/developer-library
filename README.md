@@ -1,6 +1,17 @@
-# Developer Library
 
-## Navigation
+<div align="center">
+  <h1>
+    <span style="vertical-align: middle;">Developer Library</span>
+  </h1>
+    <a href="i18n/README_ru.md">Русский README</a> |
+    <a href="#navigation">Navigation</a> |
+    <a href="#categories">Categories</a> |
+    <a href="#contribution">Contribution</a>
+</div>
+
+A curated collection of free programming books. Covers various languages, frameworks, algorithms, and best practices. Perfect for beginners and advanced developers.
+
+## <span id="navigation">Navigation</span>
 
 [*Agile*](#agile)
 
@@ -34,7 +45,8 @@
 
 [*Other*](#other)
 
-## Categories
+## <span id="categories">Categories</span>
+
 
 ### <a name="agile"></a> **Agile**
 - [Clean Agile](books/agile/Clean%20Agile)
@@ -60,7 +72,7 @@
 
 ### <a name="architecture"></a> **Architecture**
 - [Designing Event Driven Systems](books/architecture/Designing%20Event%20Driven%20Systems)
-- [Domain/books Driven Design](books/architecture/Domain%20Driven%20Design)
+- [Domain Driven Design](books/architecture/Domain%20Driven%20Design)
 - [Patterns of Enterprise Application Architecture](books/architecture/Patterns%20of%20Enterprise%20Application%20Architecture)
 
 ### <a name="computer-science"></a> **Computer Science**
@@ -79,12 +91,12 @@
 
 ### <a name="paradigms"></a> **Paradigms**
 
-#### <a name="oop"></a> **OOP**
+##### <a name="oop"></a> **OOP**
 - [The Object-Oriented Thought Process](books/paradigms/oop/The%20Object-Oriented%20Thought%20Process)
 
 ### <a name="programming-languages"></a> **Programming Languages**
 
-#### <a name="python"></a> **Python**
+##### <a name="python"></a> **Python**
 - [Fluent Python](books/programming-languages/python/Fluent%20Python)
 - [Python Object-Oriented Programming](books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
@@ -101,7 +113,7 @@
 - [The Pragmatic Programmer](books/software-engineering/_/The%20Pragmatic%20Programmer)
 - [Weniger Schlecht Programmieren](books/software-engineering/_/Weniger%20Schlecht%20Programmieren)
 
-#### <a name="clean-code"></a> **Clean Code**
+##### <a name="clean-code"></a> **Clean Code**
 - [Clean Architecture](books/software-engineering/clean-code/Clean%20Architecture)
 - [Clean Code](books/software-engineering/clean-code/Clean%20Code)
 - [Code Complete](books/software-engineering/clean-code/Code%20Complete)
@@ -110,27 +122,27 @@
 - [The Programmer's Brain](books/software-engineering/clean-code/The%20Programmer's%20Brain)
 - [Working Effectively with Legacy Code](books/software-engineering/clean-code/Working%20Effectively%20with%20Legacy%20Code)
   
-#### <a name="design-patterns"></a> **Design Patterns**
+##### <a name="design-patterns"></a> **Design Patterns**
 - [Design Patterns. Elements of Reusable Object-Oriented Software](books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
   
-#### <a name="refactoring"></a> **Refactoring**
+##### <a name="refactoring"></a> **Refactoring**
 - [Refactoring. Improving the Design of Existing Code](books/software-engineering/refactoring/Refactoring.%20Improving%20the%20Design%20of%20Existing%20Code)
 
 ### <a name="testing"></a> **Testing**
 
-#### <a name="tdd"></a> **TDD**
+##### <a name="tdd"></a> **TDD**
 - [Test-Driven Development By Example](books/testing/tdd/Test-Driven%20Development%20By%20Example)
 
 ### <a name="web-development"></a> **Web Development**
 - [Don't Make Me Think. A Common Sense Approach to Web Usability
 ](books/web-development/Don't%20Make%20Me%20Think.%20A%20Common%20Sense%20Approach%20to%20Web%20Usability)
-### <a name="other"></a> **Other**
 
+### <a name="other"></a> **Other**
 - [Coders at Work. Reflections on the Craft od Programming
 ](books/other/Coders%20at%20Work.%20Reflections%20on%20the%20Craft%20od%20Programming)
 
-#
-
+## <span id="contribution">Contribution</span>
+ 
 We welcome contributions to expand this developer library! Here's how you can add new resources:
 
 ### Adding New Books/Resources
@@ -143,7 +155,7 @@ We welcome contributions to expand this developer library! Here's how you can ad
 - Add your entry in the appropriate category
 - Maintain consistent formatting
 
-### Submission Process
+##### Submission Process
 1. Create a new branch:
 ```bash
 git checkout -b add-book-name
