@@ -13,6 +13,7 @@
 
 A curated collection of free programming books. Covers various languages, frameworks, algorithms, and best practices. Perfect for beginners and advanced developers.
 
+#
 
 ## <span id="navigation">Navigation</span>
 
@@ -48,15 +49,20 @@ A curated collection of free programming books. Covers various languages, framew
 
 [*Other*](#other)
 
-## <span id="categories">Categories</span>
+#
 
+## <span id="categories">Categories</span>
 
 ### <a name="agile"></a> **Agile**
 - [Clean Agile](books/agile/Clean%20Agile)
 
+#
+
 ### <a name="algorithms-data-structures"></a> **Algorithms and Data Structures**
 
+- [Advanced Algorithms and Data Structures](books/algorithms-data-structures/Advanced%20Algorithms%20and%20Data%20Structures)
 - [Algorithm Design](books/algorithms-data-structures/Algorithm%20Design)
+- [Algorithmic Thinking](books/algorithms-data-structures/Algorithmic%20Thinking)
 - [Algorithms Illuminated (Part 1) The Basics](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%201)%20The%20Basics)
 - [Algorithms Illuminated (Part 2) Graph Algorithms and Data Structures](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%202)%20Graph%20Algorithms%20and%20Data%20Structures)
 - [Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%203)%20Greedy%20Algorithms%20and%20Dynamic%20Programming)
@@ -72,11 +78,16 @@ A curated collection of free programming books. Covers various languages, framew
 - [Introduction to Algorithms](books/algorithms-data-structures/Introduction%20to%20Algorithms)
 - [Real-World Algorithms. A Beginner's Guide](books/algorithms-data-structures/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
 - [The Algorithm Design Manual](books/algorithms-data-structures/The%20Algorithm%20Design%20Manual)
+- [Think Data Structures. Algorithms and Informatio Retrieval in Java](books/algorithms-data-structures/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
+
+#
 
 ### <a name="architecture"></a> **Architecture**
 - [Designing Event Driven Systems](books/architecture/Designing%20Event%20Driven%20Systems)
 - [Domain Driven Design](books/architecture/Domain%20Driven%20Design)
 - [Patterns of Enterprise Application Architecture](books/architecture/Patterns%20of%20Enterprise%20Application%20Architecture)
+
+#
 
 ### <a name="computer-science"></a> **Computer Science**
 - [Code. The Hidden Language of Computer Hardware and Software](books/computer-science/Code.%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software)
@@ -86,16 +97,24 @@ A curated collection of free programming books. Covers various languages, framew
 - [The Art of Computer Programming. Volume 3. Sorting and Searching](books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%203.%20Sorting%20and%20Searching)
 - [The Art of Computer Programming. Volume 4A. Combinatorial Algorithms](books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%204A.%20Combinatorial%20Algorithms)
 
+#
+
 ### <a name="devops"></a> **DevOps**
 - [Release it! Design and Deploy Production-Ready Software](books/devops/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
 
+#
+
 ### <a name="interview"></a> **Interview**
 - [Cracking the Coding Interview](books/interview/Cracking%20the%20Coding%20Interview)
+
+#
 
 ### <a name="paradigms"></a> **Paradigms**
 
 ##### <a name="oop"></a> **OOP**
 - [The Object-Oriented Thought Process](books/paradigms/oop/The%20Object-Oriented%20Thought%20Process)
+
+#
 
 ### <a name="programming-languages"></a> **Programming Languages**
 
@@ -103,11 +122,15 @@ A curated collection of free programming books. Covers various languages, framew
 - [Fluent Python](books/programming-languages/python/Fluent%20Python)
 - [Python Object-Oriented Programming](books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
+#
+
 ### <a name="soft-skills"></a> **Soft Skills**
 - [Herding Cats. A Primer for Programmers Who Lead Programmers
 ](books/soft-skills/Herding%20Cats.%20A%20Primer%20for%20Programmers%20Who%20Lead%20Programmers)
 - [Soft Skills. The software developer's life manual](books/soft-skills/Soft%20Skills.%20The%20software%20developer's%20life%20manual)
 - [The Passionate Programmer](books/soft-skills/The%20Passionate%20Programmer)
+
+#
 
 ### <a name="software-engineering"></a> **Software Engineering**
 - [Street Coder. The Rules to Break and How to Break](books/software-engineering/_/Street%20Coder.%20The%20Rules%20to%20Break%20and%20How%20to%20Break)
@@ -131,21 +154,29 @@ A curated collection of free programming books. Covers various languages, framew
 ##### <a name="refactoring"></a> **Refactoring**
 - [Refactoring. Improving the Design of Existing Code](books/software-engineering/refactoring/Refactoring.%20Improving%20the%20Design%20of%20Existing%20Code)
 
+#
+
 ### <a name="testing"></a> **Testing**
 
 ##### <a name="tdd"></a> **TDD**
 - [Test-Driven Development By Example](books/testing/tdd/Test-Driven%20Development%20By%20Example)
 
+#
+
 ### <a name="web-development"></a> **Web Development**
 - [Don't Make Me Think. A Common Sense Approach to Web Usability
 ](books/web-development/Don't%20Make%20Me%20Think.%20A%20Common%20Sense%20Approach%20to%20Web%20Usability)
+
+#
 
 ### <a name="other"></a> **Other**
 - [Coders at Work. Reflections on the Craft od Programming
 ](books/other/Coders%20at%20Work.%20Reflections%20on%20the%20Craft%20od%20Programming)
 
+#
+
 ## <span id="contribution">Contribution</span>
- 
+
 We welcome contributions to expand this developer library! Here's how you can add new resources:
 
 ### Adding New Books/Resources
