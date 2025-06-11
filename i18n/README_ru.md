@@ -131,7 +131,7 @@
 - [Объектно-ориентированный Python](../books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
 ##### <a name="csharp"></a> **C#**
-- [CLR via C#](../books/programming-languages/c#/CLR%20via%20C#)
+- [CLR via C#](../books/programming-languages/с-sharp/CLR%20via%20C-Sharp)
 
 #
 
