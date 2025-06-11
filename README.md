@@ -20,6 +20,8 @@ A curated collection of free programming books. Covers various languages, framew
 [*Agile*](#agile)
 
 [*Algorithms and Data Structures*](#algorithms-data-structures)
+- [Python](#python-alg)
+- [Java](#java-alg)
 
 [*Architecture*](#architecture)
 
@@ -34,6 +36,7 @@ A curated collection of free programming books. Covers various languages, framew
 
 [*Programming Languages*](#programming-languages)
 - [Python](#python)
+- [C#](#csharp)
 
 [*Soft Skills*](#soft-skills)
 
@@ -55,30 +58,35 @@ A curated collection of free programming books. Covers various languages, framew
 
 ### <a name="agile"></a> **Agile**
 - [Clean Agile](books/agile/Clean%20Agile)
+- [More Effective Agile](books/agile/More%20Effective%20Agile)
 
 #
 
 ### <a name="algorithms-data-structures"></a> **Algorithms and Data Structures**
 
-- [Advanced Algorithms and Data Structures](books/algorithms-data-structures/Advanced%20Algorithms%20and%20Data%20Structures)
-- [Algorithm Design](books/algorithms-data-structures/Algorithm%20Design)
-- [Algorithmic Thinking](books/algorithms-data-structures/Algorithmic%20Thinking)
-- [Algorithms Illuminated (Part 1) The Basics](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%201)%20The%20Basics)
-- [Algorithms Illuminated (Part 2) Graph Algorithms and Data Structures](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%202)%20Graph%20Algorithms%20and%20Data%20Structures)
-- [Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%203)%20Greedy%20Algorithms%20and%20Dynamic%20Programming)
-- [Algorithms Illuminated (Part 4) Algorithms for NP-Hard Problems](books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%204)%20Algorithms%20for%20NP-Hard%20Problems)
-- [Algorithms Unlocked](books/algorithms-data-structures/Algorithms%20Unlocked)
-- [Algorithms and Data Structures](books/algorithms-data-structures/Algorithms%20and%20Data%20Structures)
-- [Algorithms in a Nutshell. A Practical Guide](books/algorithms-data-structures/Algorithms%20in%20a%20Nutshell.%20A%20Practical%20Guide)
-- [An Introduction to the Analysis of Algorithms](books/algorithms-data-structures/An%20Introduction%20to%20the%20Analysis%20of%20Algorithms)
-- [Data Structures & Algorithms in Java](books/algorithms-data-structures/Data%20Structures%20%26%20Algorithms%20in%20Java)
-- [Dive Into Algorithms. A Pythonic Adventure for the Intrepid Beginner](books/algorithms-data-structures/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
-- [Grokking Algorithms](books/algorithms-data-structures/Grokking%20Algorithms)
-- [Hacker's Delight](books/algorithms-data-structures/Hacker's%20Delight)
-- [Introduction to Algorithms](books/algorithms-data-structures/Introduction%20to%20Algorithms)
-- [Real-World Algorithms. A Beginner's Guide](books/algorithms-data-structures/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
-- [The Algorithm Design Manual](books/algorithms-data-structures/The%20Algorithm%20Design%20Manual)
-- [Think Data Structures. Algorithms and Informatio Retrieval in Java](books/algorithms-data-structures/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
+- [Advanced Algorithms and Data Structures](books/algorithms-data-structures/_/Advanced%20Algorithms%20and%20Data%20Structures)
+- [Algorithm Design](books/algorithms-data-structures/_/Algorithm%20Design)
+- [Algorithmic Thinking](books/algorithms-data-structures/_/Algorithmic%20Thinking)
+- [Algorithms Illuminated (Part 1) The Basics](books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%201)%20The%20Basics)
+- [Algorithms Illuminated (Part 2) Graph Algorithms and Data Structures](books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%202)%20Graph%20Algorithms%20and%20Data%20Structures)
+- [Algorithms Illuminated (Part 3) Greedy Algorithms and Dynamic Programming](books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%203)%20Greedy%20Algorithms%20and%20Dynamic%20Programming)
+- [Algorithms Illuminated (Part 4) Algorithms for NP-Hard Problems](books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%204)%20Algorithms%20for%20NP-Hard%20Problems)
+- [Algorithms Unlocked](books/algorithms-data-structures/_/Algorithms%20Unlocked)
+- [Algorithms and Data Structures](books/algorithms-data-structures/_/Algorithms%20and%20Data%20Structures)
+- [Algorithms in a Nutshell. A Practical Guide](books/algorithms-data-structures/_/Algorithms%20in%20a%20Nutshell.%20A%20Practical%20Guide)
+- [An Introduction to the Analysis of Algorithms](books/algorithms-data-structures/_/An%20Introduction%20to%20the%20Analysis%20of%20Algorithms)
+- [Grokking Algorithms](books/algorithms-data-structures/_/Grokking%20Algorithms)
+- [Hacker's Delight](books/algorithms-data-structures/_/Hacker's%20Delight)
+- [Introduction to Algorithms](books/algorithms-data-structures/_/Introduction%20to%20Algorithms)
+- [Real-World Algorithms. A Beginner's Guide](books/algorithms-data-structures/_/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
+- [The Algorithm Design Manual](books/algorithms-data-structures/_/The%20Algorithm%20Design%20Manual)
+
+##### <a name="python-alg"></a> **Python**
+- [Dive Into Algorithms. A Pythonic Adventure for the Intrepid Beginner](books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
+
+##### <a name="java-alg"></a> **Java**
+- [Data Structures & Algorithms in Java](books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
+- [Think Data Structures. Algorithms and Informatio Retrieval in Java](books/algorithms-data-structures/java/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
 
 #
 
@@ -96,6 +104,7 @@ A curated collection of free programming books. Covers various languages, framew
 ](books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%202.%20Seminumerical%20Algorithms)
 - [The Art of Computer Programming. Volume 3. Sorting and Searching](books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%203.%20Sorting%20and%20Searching)
 - [The Art of Computer Programming. Volume 4A. Combinatorial Algorithms](books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%204A.%20Combinatorial%20Algorithms)
+- [The Self-Taught Computer Scientist](books/computer-science/The%20Self-Taught%20Computer%20Scientist)
 
 #
 
@@ -121,6 +130,9 @@ A curated collection of free programming books. Covers various languages, framew
 ##### <a name="python"></a> **Python**
 - [Fluent Python](books/programming-languages/python/Fluent%20Python)
 - [Python Object-Oriented Programming](books/programming-languages/python/Python%20Object-Oriented%20Programming)
+
+##### <a name="csharp"></a> **C#**
+- [CLR via C#](books/programming-languages/c#/CLR%20via%20C#)
 
 #
 

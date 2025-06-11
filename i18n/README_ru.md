@@ -20,6 +20,8 @@
 [*Agile*](#agile)
 
 [*Algorithms and Data Structures*](#algorithms-data-structures)
+- [Python](#python-alg)
+- [Java](#java-alg)
 
 [*Architecture*](#architecture)
 
@@ -34,6 +36,7 @@
 
 [*Programming Languages*](#programming-languages)
 - [Python](#python)
+- [C#](#csharp)
 
 [*Soft Skills*](#soft-skills)
 
@@ -55,30 +58,35 @@
 
 ### <a name="agile"></a> **Agile**
 - [Чистый Agile](../books/agile/Clean%20Agile)
+- [Еще более эффективный Agile](../books/agile/More%20Effective%20Agile)
 
 #
 
 ### <a name="algorithms-data-structures"></a> **Algorithms and Data Structures**
 
-- [Продвинутые алгоритмы и структуры данных](../books/algorithms-data-structures/Advanced%20Algorithms%20and%20Data%20Structures)
-- [Алгоритмы. Разработка и применение](../books/algorithms-data-structures/Algorithm%20Design)
-- [Алгоритмы на практике](../books/algorithms-data-structures/Algorithmic%20Thinking)
-- [Совершенный алгоритм. Основы](../books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%201)%20The%20Basics)
-- [Совершенный алгоритм. Графовые алгоритмы и структуры данных](../books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%202)%20Graph%20Algorithms%20and%20Data%20Structures)
-- [Совершенный алгоритм. Жадные алгоритмы и динамическое программирование](../books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%203)%20Greedy%20Algorithms%20and%20Dynamic%20Programming)
-- [Совершенный алгоритм. Алгоритмы для NP трудных задач](../books/algorithms-data-structures/Algorithms%20Illuminated%20(Part%204)%20Algorithms%20for%20NP-Hard%20Problems)
-- [Алгоритмы. Вводный курс](../books/algorithms-data-structures/Algorithms%20Unlocked)
-- [Алгоритмы и структуры данных](../books/algorithms-data-structures/Algorithms%20and%20Data%20Structures)
-- [Алгоритмы. Справочник с примерами на C, C++, Java и Python](../books/algorithms-data-structures/Algorithms%20in%20a%20Nutshell.%20A%20Practical%20Guide)
-- [Введение в анализ алгоритмов](../books/algorithms-data-structures/An%20Introduction%20to%20the%20Analysis%20of%20Algorithms)
-- [Структуры данных и алгоритмы JAVA](../books/algorithms-data-structures/Data%20Structures%20%26%20Algorithms%20in%20Java)
-- [Алгоритмы неформально. Инструкция для начинающих питонистов](../books/algorithms-data-structures/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
-- [Грокаем алгоритмы](../books/algorithms-data-structures/Grokking%20Algorithms)
-- [Алгоритмические трюки для программистов](../books/algorithms-data-structures/Hacker's%20Delight)
-- [Алгоритмы. Построение и анализ](../books/algorithms-data-structures/Introduction%20to%20Algorithms)
-- [Алгоритмы для начинающих. Tеория и практика для разработчика](../books/algorithms-data-structures/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
-- [Алгоритмы. Руководство по разработке](../books/algorithms-data-structures/The%20Algorithm%20Design%20Manual)
-- [Алгоритмы и структуры данных. Извлечение информации на языке JAVA](../books/algorithms-data-structures/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
+- [Продвинутые алгоритмы и структуры данных](../books/algorithms-data-structures/_/Advanced%20Algorithms%20and%20Data%20Structures)
+- [Алгоритмы. Разработка и применение](../books/algorithms-data-structures/_/Algorithm%20Design)
+- [Алгоритмы на практике](../books/algorithms-data-structures/_/Algorithmic%20Thinking)
+- [Совершенный алгоритм. Основы](../books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%201)%20The%20Basics)
+- [Совершенный алгоритм. Графовые алгоритмы и структуры данных](../books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%202)%20Graph%20Algorithms%20and%20Data%20Structures)
+- [Совершенный алгоритм. Жадные алгоритмы и динамическое программирование](../books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%203)%20Greedy%20Algorithms%20and%20Dynamic%20Programming)
+- [Совершенный алгоритм. Алгоритмы для NP трудных задач](../books/algorithms-data-structures/_/Algorithms%20Illuminated%20(Part%204)%20Algorithms%20for%20NP-Hard%20Problems)
+- [Алгоритмы. Вводный курс](../books/algorithms-data-structures/_/Algorithms%20Unlocked)
+- [Алгоритмы и структуры данных](../books/algorithms-data-structures/_/Algorithms%20and%20Data%20Structures)
+- [Алгоритмы. Справочник с примерами на C, C++, Java и Python](../books/algorithms-data-structures/_/Algorithms%20in%20a%20Nutshell.%20A%20Practical%20Guide)
+- [Введение в анализ алгоритмов](../books/algorithms-data-structures/_/An%20Introduction%20to%20the%20Analysis%20of%20Algorithms)
+- [Грокаем алгоритмы](../books/algorithms-data-structures/_/Grokking%20Algorithms)
+- [Алгоритмические трюки для программистов](../books/algorithms-data-structures/_/Hacker's%20Delight)
+- [Алгоритмы. Построение и анализ](../books/algorithms-data-structures/_/Introduction%20to%20Algorithms)
+- [Алгоритмы для начинающих. Tеория и практика для разработчика](../books/algorithms-data-structures/_/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
+- [Алгоритмы. Руководство по разработке](../books/algorithms-data-structures/_/The%20Algorithm%20Design%20Manual)
+
+##### <a name="python-alg"></a> **Python**
+- [Алгоритмы неформально. Инструкция для начинающих питонистов](../books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
+
+##### <a name="java-alg"></a> **Java**
+- [Структуры данных и алгоритмы JAVA](../books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
+- [Алгоритмы и структуры данных. Извлечение информации на языке JAVA](../books/algorithms-data-structures/java/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
 
 #
 
@@ -95,6 +103,7 @@
 - [Искусство программирования. Том 2. Получисленные алгоритмы](../books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%202.%20Seminumerical%20Algorithms)
 - [Искусство программирования. Том 3. Сортировка и поиск](../books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%203.%20Sorting%20and%20Searching)
 - [Искусство программирования. Том 4, A. Комбинаторные алгоритмы](../books/computer-science/The%20Art%20of%20Computer%20Programming.%20Volume%204A.%20Combinatorial%20Algorithms)
+- [Computer Science для программиста самоучки](../books/computer-science/The%20Self-Taught%20Computer%20Scientist)
 
 #
 
@@ -120,6 +129,9 @@
 ##### <a name="python"></a> **Python**
 - [Python. К вершинам мастерства](../books/programming-languages/python/Fluent%20Python)
 - [Объектно-ориентированный Python](../books/programming-languages/python/Python%20Object-Oriented%20Programming)
+
+##### <a name="csharp"></a> **C#**
+- [CLR via C#](../books/programming-languages/c#/CLR%20via%20C#)
 
 #
 
