@@ -28,6 +28,7 @@
 [*Computer Science*](#computer-science)
 
 [*DevOps*](#devops)
+- [Git](#git)
 
 [*Interview*](#interview)
 
@@ -108,7 +109,13 @@
 #
 
 ### <a name="devops"></a> **DevOps**
-- [Release it! Проектирование и дизайн ПО для тех, кому не всё равно](../books/devops/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+- [Release it! Проектирование и дизайн ПО для тех, кому не всё равно](../books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+
+##### <a name="git"></a> **Git**
+- [Head First. Git](../books/devops/Git/Head%20First.%20Git)
+- [Изучаем Git](../books/devops/Git/Learning%20Git)
+- [Git для профессионального программиста](../books/devops/Git/Pro%20Git)
+- [Git: контроль версий](../books/devops/Git/Version%20Control%20with%20Git)
 
 #
 

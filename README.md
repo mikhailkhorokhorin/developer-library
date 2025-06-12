@@ -28,6 +28,7 @@ A curated collection of free programming books. Covers various languages, framew
 [*Computer Science*](#computer-science)
 
 [*DevOps*](#devops)
+- [Git](#git)
 
 [*Interview*](#interview)
 
@@ -109,7 +110,13 @@ A curated collection of free programming books. Covers various languages, framew
 #
 
 ### <a name="devops"></a> **DevOps**
-- [Release it! Design and Deploy Production-Ready Software](books/devops/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+- [Release it! Design and Deploy Production-Ready Software](books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+
+##### <a name="git"></a> **Git**
+- [Head First. Git](books/devops/Git/Head%20First.%20Git)
+- [Learning Git](books/devops/Git/Learning%20Git)
+- [Pro Git](books/devops/Git/Pro%20Git)
+- [Version Control with Git](books/devops/Git/Version%20Control%20with%20Git)
 
 #
 
