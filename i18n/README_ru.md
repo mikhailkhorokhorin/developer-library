@@ -18,12 +18,15 @@
 ## <span id="navigation">Навигация</span>
 
 [*Agile*](#agile)
+- [Kanban](#kanban)
+- [Scrum](#scrum)
 
 [*Algorithms and Data Structures*](#algorithms-data-structures)
 - [Python](#python-alg)
 - [Java](#java-alg)
 
 [*Architecture*](#architecture)
+- [Python](#python-arch)
 
 [*Computer Science*](#computer-science)
 
@@ -58,8 +61,18 @@
 ## <span id="categories">Категории</span>
 
 ### <a name="agile"></a> **Agile**
-- [Чистый Agile](../books/agile/Clean%20Agile)
-- [Еще более эффективный Agile](../books/agile/More%20Effective%20Agile)
+- [Блистательный Agile](../books/agile/_/Brilliant%20Agile%20Project%20Management)
+- [Чистый Agile](../books/agile/_/Clean%20Agile)
+- [Ретроспектива в Agile](../books/agile/_/Improving%20Agile%20Retrospectives)
+- [Еще более эффективный Agile](../books/agile/_/More%20Effective%20Agile)
+
+##### <a name="kanban"></a> **Kanban**
+- [Канбан. Альтернативный путь в Agile](../books/agile/kanban/Kanban.%20Successful%20Evolutionaty%20Change%20for%20Your%20Technology%20Business)
+
+##### <a name="scrum"></a> **Scrum**
+- [Все о SCRUM](../books/agile/scrum/Scrum.%20Le%20guide%20pratique%20de%20la%20méthode%20agile%20la%20plus%20populaire)
+- [Scrum. Революционный метод управления проектами](../books/agile/scrum/Scrum.%20The%20Art%20of%20Doing%20Twice%20the%20Work%20in%20Half%20the%20Time)
+- [Scrum на практике](../books/agile/scrum/The%20Scrum%20Fieldbook)
 
 #
 
@@ -92,9 +105,12 @@
 #
 
 ### <a name="architecture"></a> **Architecture**
-- [Проектирование событийно-ориентированных систем](../books/architecture/Designing%20Event%20Driven%20Systems)
-- [Предметно-ориентированное проектирование](../books/architecture/Domain%20Driven%20Design)
-- [Шаблоны корпоративных приложений](../books/architecture/Patterns%20of%20Enterprise%20Application%20Architecture)
+- [Проектирование событийно-ориентированных систем](../books/architecture/_/Designing%20Event%20Driven%20Systems)
+- [Предметно-ориентированное проектирование](../books/architecture/_/Domain%20Driven%20Design)
+- [Шаблоны корпоративных приложений](../books/architecture/_/Patterns%20of%20Enterprise%20Application%20Architecture)
+
+##### <a name="python-arch"></a> **Python**
+- [Паттерны разработки на Python](../books/architecture/python/Architecture%20Patterns%20with%20Python)
 
 #
 

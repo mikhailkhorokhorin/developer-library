@@ -18,12 +18,15 @@ A curated collection of free programming books. Covers various languages, framew
 ## <span id="navigation">Navigation</span>
 
 [*Agile*](#agile)
+- [Kanban](#kanban)
+- [Scrum](#scrum)
 
 [*Algorithms and Data Structures*](#algorithms-data-structures)
 - [Python](#python-alg)
 - [Java](#java-alg)
 
 [*Architecture*](#architecture)
+- [Python](#python-arch)
 
 [*Computer Science*](#computer-science)
 
@@ -58,8 +61,18 @@ A curated collection of free programming books. Covers various languages, framew
 ## <span id="categories">Categories</span>
 
 ### <a name="agile"></a> **Agile**
-- [Clean Agile](books/agile/Clean%20Agile)
-- [More Effective Agile](books/agile/More%20Effective%20Agile)
+- [Brilliant Agile Project Management](books/agile/_/Brilliant%20Agile%20Project%20Management)
+- [Clean Agile](books/agile/_/Clean%20Agile)
+- [Improving Agile Retrospectives](books/agile/_/Improving%20Agile%20Retrospectives)
+- [More Effective Agile](books/agile/_/More%20Effective%20Agile)
+
+##### <a name="kanban"></a> **Kanban**
+- [Kanban. Successful Evolutionaty Change for Your Technology Business](books/agile/kanban/Kanban.%20Successful%20Evolutionaty%20Change%20for%20Your%20Technology%20Business)
+
+##### <a name="scrum"></a> **Scrum**
+- [Scrum. Le guide pratique de la méthode agile la plus populaire](books/agile/scrum/Scrum.%20Le%20guide%20pratique%20de%20la%20méthode%20agile%20la%20plus%20populaire)
+- [Scrum. The Art of Doing Twice the Work in Half the Time](books/agile/scrum/Scrum.%20The%20Art%20of%20Doing%20Twice%20the%20Work%20in%20Half%20the%20Time)
+- [The Scrum Fieldbook](books/agile/scrum/The%20Scrum%20Fieldbook)
 
 #
 
@@ -92,9 +105,12 @@ A curated collection of free programming books. Covers various languages, framew
 #
 
 ### <a name="architecture"></a> **Architecture**
-- [Designing Event Driven Systems](books/architecture/Designing%20Event%20Driven%20Systems)
-- [Domain Driven Design](books/architecture/Domain%20Driven%20Design)
-- [Patterns of Enterprise Application Architecture](books/architecture/Patterns%20of%20Enterprise%20Application%20Architecture)
+- [Designing Event Driven Systems](books/architecture/_/Designing%20Event%20Driven%20Systems)
+- [Domain Driven Design](books/architecture/_/Domain%20Driven%20Design)
+- [Patterns of Enterprise Application Architecture](books/architecture/_/Patterns%20of%20Enterprise%20Application%20Architecture)
+
+##### <a name="python-arch"></a> **Python**
+- [Architecture Patterns with Python](books/architecture/python/Architecture%20Patterns%20with%20Python)
 
 #
 
