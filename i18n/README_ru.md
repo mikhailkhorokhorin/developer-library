@@ -31,7 +31,9 @@
 [*Computer Science*](#computer-science)
 
 [*DevOps*](#devops)
+- [Docker](#docker)
 - [Git](#git)
+- [Python](#python-devops)
 
 [*Interview*](#interview)
 
@@ -127,11 +129,17 @@
 ### <a name="devops"></a> **DevOps**
 - [Release it! Проектирование и дизайн ПО для тех, кому не всё равно](../books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
 
+##### <a name="docker"></a> **Docker**
+- [Docker. Вводный курс](../books/devops/docker/Docker.%20Up%20&%20Running)
+
 ##### <a name="git"></a> **Git**
-- [Head First. Git](../books/devops/Git/Head%20First.%20Git)
-- [Изучаем Git](../books/devops/Git/Learning%20Git)
-- [Git для профессионального программиста](../books/devops/Git/Pro%20Git)
-- [Git: контроль версий](../books/devops/Git/Version%20Control%20with%20Git)
+- [Head First. Git](../books/devops/git/Head%20First.%20Git)
+- [Изучаем Git](../books/devops/git/Learning%20Git)
+- [Git для профессионального программиста](../books/devops/git/Pro%20Git)
+- [Git: контроль версий](../books/devops/git/Version%20Control%20with%20Git)
+
+##### <a name="docker"></a> **Docker**
+- [Python и DevOps](../books/devops/python/Python%20for%20DevOps)
 
 #
 
@@ -151,6 +159,7 @@
 
 ##### <a name="python"></a> **Python**
 - [Python. К вершинам мастерства](../books/programming-languages/python/Fluent%20Python)
+- [Asyncio и конкурентное программирование на Python](../books/programming-languages/python/Python%20Concurrency%20with%20asyncio)
 - [Объектно-ориентированный Python](../books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
 ##### <a name="csharp"></a> **C#**

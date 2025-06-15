@@ -31,7 +31,9 @@ A curated collection of free programming books. Covers various languages, framew
 [*Computer Science*](#computer-science)
 
 [*DevOps*](#devops)
+- [Docker](#docker)
 - [Git](#git)
+- [Python](#python-devops)
 
 [*Interview*](#interview)
 
@@ -128,11 +130,18 @@ A curated collection of free programming books. Covers various languages, framew
 ### <a name="devops"></a> **DevOps**
 - [Release it! Design and Deploy Production-Ready Software](books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
 
+##### <a name="docker"></a> **Docker**
+- [Docker. Up & Running](/books/devops/docker/Docker.%20Up%20&%20Running)
+
 ##### <a name="git"></a> **Git**
-- [Head First. Git](books/devops/Git/Head%20First.%20Git)
-- [Learning Git](books/devops/Git/Learning%20Git)
-- [Pro Git](books/devops/Git/Pro%20Git)
-- [Version Control with Git](books/devops/Git/Version%20Control%20with%20Git)
+- [Head First. Git](books/devops/git/Head%20First.%20Git)
+- [Learning Git](books/devops/git/Learning%20Git)
+- [Pro Git](books/devops/git/Pro%20Git)
+- [Version Control with Git](books/devops/git/Version%20Control%20with%20Git)
+
+##### <a name="docker"></a> **Docker**
+- [Python for DevOps](books/devops/python/Python%20for%20DevOps)
+
 
 #
 
@@ -152,6 +161,7 @@ A curated collection of free programming books. Covers various languages, framew
 
 ##### <a name="python"></a> **Python**
 - [Fluent Python](books/programming-languages/python/Fluent%20Python)
+- [Python Concurrency with asyncio](/books/programming-languages/python/Python%20Concurrency%20with%20asyncio)
 - [Python Object-Oriented Programming](books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
 ##### <a name="csharp"></a> **C#**
