@@ -139,7 +139,7 @@ A curated collection of free programming books. Covers various languages, framew
 - [Pro Git](books/devops/git/Pro%20Git)
 - [Version Control with Git](books/devops/git/Version%20Control%20with%20Git)
 
-##### <a name="docker"></a> **Docker**
+##### <a name="python-devops"></a> **Python**
 - [Python for DevOps](books/devops/python/Python%20for%20DevOps)
 
 

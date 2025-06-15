@@ -138,7 +138,7 @@
 - [Git для профессионального программиста](../books/devops/git/Pro%20Git)
 - [Git: контроль версий](../books/devops/git/Version%20Control%20with%20Git)
 
-##### <a name="docker"></a> **Docker**
+##### <a name="python-devops"></a> **Python**
 - [Python и DevOps](../books/devops/python/Python%20for%20DevOps)
 
 #
