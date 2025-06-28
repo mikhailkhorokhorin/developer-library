@@ -100,7 +100,7 @@
 
 ##### <a name="python-alg"></a> **Python**
 - [Алгоритмы неформально. Инструкция для начинающих питонистов](../books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
-- [Алгоритмы с примерами на Python](../books/algorithms-data-structures/python/Learning%20Algorithms)~~~~
+- [Алгоритмы с примерами на Python](../books/algorithms-data-structures/python/Learning%20Algorithms)
 
 ##### <a name="java-alg"></a> **Java**
 - [Структуры данных и алгоритмы JAVA](../books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
