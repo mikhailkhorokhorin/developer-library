@@ -34,6 +34,7 @@
 - [Docker](#docker)
 - [Git](#git)
 - [Python](#python-devops)
+- [Kubernetes](#kubernetes)
 
 [*Interview*](#interview)
 
@@ -99,6 +100,7 @@
 
 ##### <a name="python-alg"></a> **Python**
 - [Алгоритмы неформально. Инструкция для начинающих питонистов](../books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
+- [Алгоритмы с примерами на Python](../books/algorithms-data-structures/python/Learning%20Algorithms)~~~~
 
 ##### <a name="java-alg"></a> **Java**
 - [Структуры данных и алгоритмы JAVA](../books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
@@ -145,6 +147,12 @@
 
 ### <a name="interview"></a> **Interview**
 - [Карьера программиста](../books/interview/Cracking%20the%20Coding%20Interview)
+
+##### <a name="kubernetes"></a> **Kubernetes**
+- [Kubernetes для DevOps](../books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
+- [Паттерны Kubernetes](../books/devops/kubernetes/Kubernetes%20Patterns)
+- [Kubernetes на практике](../books/devops/kubernetes/Production%20Kubernetes)
+
 
 #
 

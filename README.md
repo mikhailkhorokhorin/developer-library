@@ -34,6 +34,7 @@ A curated collection of free programming books. Covers various languages, framew
 - [Docker](#docker)
 - [Git](#git)
 - [Python](#python-devops)
+- [Kubernetes](#kubernetes)
 
 [*Interview*](#interview)
 
@@ -99,6 +100,7 @@ A curated collection of free programming books. Covers various languages, framew
 
 ##### <a name="python-alg"></a> **Python**
 - [Dive Into Algorithms. A Pythonic Adventure for the Intrepid Beginner](books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
+- [Learning Algorithms](books/algorithms-data-structures/python/Learning%20Algorithms)
 
 ##### <a name="java-alg"></a> **Java**
 - [Data Structures & Algorithms in Java](books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
@@ -142,6 +144,10 @@ A curated collection of free programming books. Covers various languages, framew
 ##### <a name="python-devops"></a> **Python**
 - [Python for DevOps](books/devops/python/Python%20for%20DevOps)
 
+##### <a name="kubernetes"></a> **Kubernetes**
+- [Cloud Native DevOps with Kubernetes](books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
+- [Kubernetes Patterns](books/devops/kubernetes/Kubernetes%20Patterns)
+- [Production Kubernetes](books/devops/kubernetes/Production%20Kubernetes)
 
 #
 
