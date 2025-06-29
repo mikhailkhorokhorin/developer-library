@@ -25,6 +25,8 @@ A curated collection of free programming books. Covers various languages, framew
 - [Python](#python-alg)
 - [Java](#java-alg)
 
+[*API*](#api)
+
 [*Architecture*](#architecture)
 - [Python](#python-arch)
 
@@ -105,6 +107,13 @@ A curated collection of free programming books. Covers various languages, framew
 ##### <a name="java-alg"></a> **Java**
 - [Data Structures & Algorithms in Java](books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
 - [Think Data Structures. Algorithms and Informatio Retrieval in Java](books/algorithms-data-structures/java/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
+
+#
+
+### <a name="api"></a> **API**
+- [Continuous API Management](books/api/Continuous%20API%20Management)
+- [Mastering API Architecture Design](books/api/Mastering%20API%20Architecture%20Design)
+- [RESTful Web API Patterns](books/api/RESTful%20Web%20API%20Patterns)
 
 #
 

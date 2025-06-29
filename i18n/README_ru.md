@@ -25,6 +25,8 @@
 - [Python](#python-alg)
 - [Java](#java-alg)
 
+[*API*](#api)
+
 [*Architecture*](#architecture)
 - [Python](#python-arch)
 
@@ -108,6 +110,13 @@
 
 #
 
+### <a name="api"></a> **API**
+- [Непрерывное развитие API](../books/api/Continuous%20API%20Management)
+- [Проектирование архитектуры API](../books/api/Mastering%20API%20Architecture%20Design)
+- [RESTful Web API Паттерны и практики](../books/api/RESTful%20Web%20API%20Patterns)
+
+#
+
 ### <a name="architecture"></a> **Architecture**
 - [Проектирование событийно-ориентированных систем](../books/architecture/_/Designing%20Event%20Driven%20Systems)
 - [Предметно-ориентированное проектирование](../books/architecture/_/Domain%20Driven%20Design)
@@ -152,7 +161,6 @@
 - [Kubernetes для DevOps](../books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
 - [Паттерны Kubernetes](../books/devops/kubernetes/Kubernetes%20Patterns)
 - [Kubernetes на практике](../books/devops/kubernetes/Production%20Kubernetes)
-
 
 #
 
