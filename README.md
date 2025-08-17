@@ -37,6 +37,10 @@ Perfect for beginners and advanced developers.
 
 - [Python](#python-cs)
 
+[*Databases*](#databases)
+
+- [SQL](#sql)
+
 [*DevOps*](#devops)
 
 - [Docker](#docker)
@@ -158,6 +162,16 @@ Perfect for beginners and advanced developers.
 ##### <a name="python-cs"></a> **Python**
 
 - [Classic Computer Science Problems in Python](books/computer-science/python/Classic%20Computer%20Science%20Problems%20in%20Python)
+
+#
+
+### <a name="databases"></a> **Databases**
+
+##### <a name="sql"></a> **SQL**
+
+- [Learning SQL](books/databases/sql/Learning%20SQL)
+- [SQL Antipatterns](books/databases/sql/SQL%20Antipatterns)
+- [SQL for Data Analysis](books/databases/sql/SQL%20for%20Data%20Analysis)
 
 #
 

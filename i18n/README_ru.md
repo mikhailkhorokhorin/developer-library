@@ -37,6 +37,10 @@
 
 - [Python](#python-cs)
 
+[*Databases*](#databases)
+
+- [SQL](#sql)
+
 [*DevOps*](#devops)
 
 - [Docker](#docker)
@@ -157,6 +161,16 @@
 ##### <a name="python-cs"></a> **Python**
 
 - [Классические задачи Computer Science на языке Python](../books/computer-science/python/Classic%20Computer%20Science%20Problems%20in%20Python)
+
+#
+
+### <a name="databases"></a> **Databases**
+
+##### <a name="sql"></a> **SQL**
+
+- [Изучаем SQL](../books/databases/sql/Learning%20SQL)
+- [Антипаттерны SQL](../books/databases/sql/SQL%20Antipatterns)
+- [SQL для анализа данных](../books/databases/sql/SQL%20for%20Data%20Analysis)
 
 #
 
