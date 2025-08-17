@@ -24,8 +24,8 @@
 
 [*Algorithms and Data Structures*](#algorithms-data-structures)
 
-- [Python](#python-alg)
 - [Java](#java-alg)
+- [Python](#python-alg)
 
 [*API*](#api)
 
@@ -45,8 +45,8 @@
 
 - [Docker](#docker)
 - [Git](#git)
-- [Python](#python-devops)
 - [Kubernetes](#kubernetes)
+- [Python](#python-devops)
 
 [*Interview*](#interview)
 
@@ -117,15 +117,15 @@
 - [Алгоритмы для начинающих. Tеория и практика для разработчика](../books/algorithms-data-structures/_/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
 - [Алгоритмы. Руководство по разработке](../books/algorithms-data-structures/_/The%20Algorithm%20Design%20Manual)
 
-##### <a name="python-alg"></a> **Python**
-
-- [Алгоритмы неформально. Инструкция для начинающих питонистов](../books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
-- [Алгоритмы с примерами на Python](../books/algorithms-data-structures/python/Learning%20Algorithms)
-
 ##### <a name="java-alg"></a> **Java**
 
 - [Структуры данных и алгоритмы JAVA](../books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
 - [Алгоритмы и структуры данных. Извлечение информации на языке JAVA](../books/algorithms-data-structures/java/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
+
+##### <a name="python-alg"></a> **Python**
+
+- [Алгоритмы неформально. Инструкция для начинающих питонистов](../books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
+- [Алгоритмы с примерами на Python](../books/algorithms-data-structures/python/Learning%20Algorithms)
 
 #
 
@@ -189,6 +189,12 @@
 - [Git для профессионального программиста](../books/devops/git/Pro%20Git)
 - [Git: контроль версий](../books/devops/git/Version%20Control%20with%20Git)
 
+##### <a name="kubernetes"></a> **Kubernetes**
+
+- [Kubernetes для DevOps](../books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
+- [Паттерны Kubernetes](../books/devops/kubernetes/Kubernetes%20Patterns)
+- [Kubernetes на практике](../books/devops/kubernetes/Production%20Kubernetes)
+
 ##### <a name="python-devops"></a> **Python**
 
 - [Python и DevOps](../books/devops/python/Python%20for%20DevOps)
@@ -198,12 +204,6 @@
 ### <a name="interview"></a> **Interview**
 
 - [Карьера программиста](../books/interview/Cracking%20the%20Coding%20Interview)
-
-##### <a name="kubernetes"></a> **Kubernetes**
-
-- [Kubernetes для DevOps](../books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
-- [Паттерны Kubernetes](../books/devops/kubernetes/Kubernetes%20Patterns)
-- [Kubernetes на практике](../books/devops/kubernetes/Production%20Kubernetes)
 
 #
 
