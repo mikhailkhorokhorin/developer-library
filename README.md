@@ -56,6 +56,7 @@ Perfect for beginners and advanced developers.
 
 [*Programming Languages*](#programming-languages)
 
+- [JavaScript](#javascript)
 - [Python](#python)
 - [C#](#csharp)
 
@@ -171,6 +172,7 @@ Perfect for beginners and advanced developers.
 
 - [Learning SQL](books/databases/sql/Learning%20SQL)
 - [SQL Antipatterns](books/databases/sql/SQL%20Antipatterns)
+- [SQL Cookbook](books/databases/sql/SQL%20Cookbook)
 - [SQL for Data Analysis](books/databases/sql/SQL%20for%20Data%20Analysis)
 
 #
@@ -218,6 +220,10 @@ Perfect for beginners and advanced developers.
 
 ### <a name="programming-languages"></a> **Programming Languages**
 
+##### <a name="javascript"></a> **JavaScript**
+
+- [JavaScript Cookbook](books/programming-languages/javascript/JavaScript%20Cookbook)
+
 ##### <a name="python"></a> **Python**
 
 - [15 énigmes ludiques pour sinitier à la programmation Python](books/programming-languages/python/15%20énigmes%20ludiques%20pour%20sinitier%20à%20la%20programmation%20Python)
@@ -253,6 +259,7 @@ Perfect for beginners and advanced developers.
 
 - [Clean Architecture](books/software-engineering/clean-code/Clean%20Architecture)
 - [Clean Code](books/software-engineering/clean-code/Clean%20Code)
+- [Clean Craftsmanship](books/software-engineering/clean-code/Clean%20Craftsmanship)
 - [Code Complete](books/software-engineering/clean-code/Code%20Complete)
 - [The Art of Clean Code](books/software-engineering/clean-code/The%20Art%20of%20Clean%20Code)
 - [The Clean Coder](books/software-engineering/clean-code/The%20Clean%20Coder)

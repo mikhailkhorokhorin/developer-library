@@ -56,6 +56,7 @@
 
 [*Programming Languages*](#programming-languages)
 
+- [JavaScript](#javascript)
 - [Python](#python)
 - [C#](#csharp)
 
@@ -170,6 +171,7 @@
 
 - [Изучаем SQL](../books/databases/sql/Learning%20SQL)
 - [Антипаттерны SQL](../books/databases/sql/SQL%20Antipatterns)
+- [SQL. Сборник рецептов](../books/databases/sql/SQL%20Cookbook)
 - [SQL для анализа данных](../books/databases/sql/SQL%20for%20Data%20Analysis)
 
 #
@@ -217,6 +219,10 @@
 
 ### <a name="programming-languages"></a> **Programming Languages**
 
+##### <a name="javascript"></a> **JavaScript**
+
+- [JavaScript. Рецепты для разработчиков](../books/programming-languages/javascript/JavaScript%20Cookbook)
+
 ##### <a name="python"></a> **Python**
 
 - [Python для начинающих](../books/programming-languages/python/15%20énigmes%20ludiques%20pour%20sinitier%20à%20la%20programmation%20Python)
@@ -250,6 +256,7 @@
 
 - [Чистая архитектура](../books/software-engineering/clean-code/Clean%20Architecture)
 - [Чистый код](../books/software-engineering/clean-code/Clean%20Code)
+- [Идеальная работа](../books/software-engineering/clean-code/Clean%20Craftsmanship)
 - [Совершенный код](../books/software-engineering/clean-code/Code%20Complete)
 - [Искусство чистого кода](../books/software-engineering/clean-code/The%20Art%20of%20Clean%20Code)
 - [Идеальный программист](../books/software-engineering/clean-code/The%20Clean%20Coder)
