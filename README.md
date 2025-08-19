@@ -132,6 +132,7 @@ Perfect for beginners and advanced developers.
 
 ### <a name="api"></a> **API**
 
+- [API Design Patterns](books/api/API%20Design%20Patterns)
 - [Continuous API Management](books/api/Continuous%20API%20Management)
 - [Mastering API Architecture Design](books/api/Mastering%20API%20Architecture%20Design)
 - [RESTful Web API Patterns](books/api/RESTful%20Web%20API%20Patterns)
@@ -140,6 +141,7 @@ Perfect for beginners and advanced developers.
 
 ### <a name="architecture"></a> **Architecture**
 
+- [Designing Data-Intensive Applications](books/architecture/_/Designing%20Data-Intensive%20Applications)
 - [Designing Event Driven Systems](books/architecture/_/Designing%20Event%20Driven%20Systems)
 - [Domain Driven Design](books/architecture/_/Domain%20Driven%20Design)
 - [Patterns of Enterprise Application Architecture](books/architecture/_/Patterns%20of%20Enterprise%20Application%20Architecture)
@@ -269,6 +271,7 @@ Perfect for beginners and advanced developers.
 ##### <a name="design-patterns"></a> **Design Patterns**
 
 - [Design Patterns. Elements of Reusable Object-Oriented Software](books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
+- [Head First. Design Patterns](books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
 
 ##### <a name="refactoring"></a> **Refactoring**
 

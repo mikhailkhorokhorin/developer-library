@@ -132,6 +132,7 @@
 
 ### <a name="api"></a> **API**
 
+- [Паттерны проектирования API](../books/api/API%20Design%20Patterns)
 - [Непрерывное развитие API](../books/api/Continuous%20API%20Management)
 - [Проектирование архитектуры API](../books/api/Mastering%20API%20Architecture%20Design)
 - [RESTful Web API Паттерны и практики](../books/api/RESTful%20Web%20API%20Patterns)
@@ -140,6 +141,7 @@
 
 ### <a name="architecture"></a> **Architecture**
 
+- [Высоконагруженные приложения](../books/architecture/_/Designing%20Data-Intensive%20Applications)
 - [Проектирование событийно-ориентированных систем](../books/architecture/_/Designing%20Event%20Driven%20Systems)
 - [Предметно-ориентированное проектирование](../books/architecture/_/Domain%20Driven%20Design)
 - [Шаблоны корпоративных приложений](../books/architecture/_/Patterns%20of%20Enterprise%20Application%20Architecture)
@@ -266,6 +268,7 @@
 ##### <a name="design-patterns"></a> **Design Patterns**
 
 - [Паттерны объектно-ориентированного проектирования](../books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
+- [Head First. Паттерны проектирования](../books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
 
 ##### <a name="refactoring"></a> **Refactoring**
 
