@@ -33,6 +33,12 @@ Perfect for beginners and advanced developers.
 
 - [Python](#python-arch)
 
+[*Artificial Intelligence And Machine Learning*](#artificial-Intelligence-machine-learning)
+
+- [Deep Learning](#deep-learning)
+- [Foundations](#foundations)
+- [Machine Learning](#machine-learning)
+
 [*Computer Science*](#computer-science)
 
 - [Python](#python-cs)
@@ -149,6 +155,22 @@ Perfect for beginners and advanced developers.
 ##### <a name="python-arch"></a> **Python**
 
 - [Architecture Patterns with Python](books/architecture/python/Architecture%20Patterns%20with%20Python)
+
+#
+
+### <a name="artificial-Intelligence-machine-learning"></a> **Artificial Intelligence And Machine Learning**
+
+##### <a name="deep-learning-cs"></a> **Deep Learning**
+
+- [Grokking Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
+
+##### <a name="foundations"></a> **Foundations**
+
+- [Grokking Artificial Intelligence Algorithms](books/artificial-Intelligence-machine-learning/foundations/Grokking%20Artificial%20Intelligence%20Algorithms)
+
+##### <a name="machine-learning-cs"></a> **Machine Learning**
+
+- [Grokking Machine Learning](books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
 
 #
 

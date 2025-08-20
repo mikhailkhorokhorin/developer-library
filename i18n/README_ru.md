@@ -33,6 +33,12 @@
 
 - [Python](#python-arch)
 
+[*Artificial Intelligence And Machine Learning*](#artificial-Intelligence-machine-learning)
+
+- [Deep Learning](#deep-learning)
+- [Foundations](#foundations)
+- [Machine Learning](#machine-learning)
+
 [*Computer Science*](#computer-science)
 
 - [Python](#python-cs)
@@ -149,6 +155,22 @@
 ##### <a name="python-arch"></a> **Python**
 
 - [Паттерны разработки на Python](../books/architecture/python/Architecture%20Patterns%20with%20Python)
+
+#
+
+### <a name="artificial-Intelligence-machine-learning"></a> **Artificial Intelligence And Machine Learning**
+
+##### <a name="deep-learning-cs"></a> **Deep Learning**
+
+- [Грокаем глубокое обучение](../books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
+
+##### <a name="foundations"></a> **Foundations**
+
+- [Грокаем алгоритмы искусcтвенного интеллекта](../books/artificial-Intelligence-machine-learning/foundations/Grokking%20Artificial%20Intelligence%20Algorithms)
+
+##### <a name="machine-learning-cs"></a> **Machine Learning**
+
+- [Грокаем машинное обучение](../books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
 
 #
 
