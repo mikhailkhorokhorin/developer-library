@@ -58,7 +58,8 @@
 
 [*Paradigms*](#paradigms)
 
-- [OOP](#oop)
+- [Functional Programming](#functional-programming)
+- [Object Oriented Programming](#object-oriented-programming)
 
 [*Programming Languages*](#programming-languages)
 
@@ -71,6 +72,8 @@
 [*Software Engineering*](#software-engineering)
 
 - [Clean Code](#clean-code)
+- [Concurrency And Parallelism](#concurrency-parallelism)
+- [Data Engineering](#data-engineering)
 - [Design Patterns](#design-patterns)
 - [Refactoring](#refactoring)
 
@@ -235,9 +238,13 @@
 
 ### <a name="paradigms"></a> **Paradigms**
 
-##### <a name="oop"></a> **OOP**
+##### <a name="functional-programming"></a> **Functional Programming**
 
-- [Объектно-ориентированное мышление](../books/paradigms/oop/The%20Object-Oriented%20Thought%20Process)
+- [Грокаем функциональное мышление](../books/paradigms/functional-programming/Grokking%20Simplicity)
+
+##### <a name="object-oriented-programming"></a> **Object Oriented Programming**
+
+- [Объектно-ориентированное мышление](../books/paradigms/object-oriented-programming/The%20Object-Oriented%20Thought%20Process)
 
 #
 
@@ -286,6 +293,14 @@
 - [Идеальный программист](../books/software-engineering/clean-code/The%20Clean%20Coder)
 - [Ум программиста](../books/software-engineering/clean-code/The%20Programmer's%20Brain)
 - [Эффективная работа с унаследованным кодом](../books/software-engineering/clean-code/Working%20Effectively%20with%20Legacy%20Code)
+
+##### <a name="concurrency-parallelism"></a> **Concurrency And Parallelism**
+
+- [Грокаем конкурентность](../books/software-engineering/concurrency-parallelism/Grokking%20Concurrency)
+
+##### <a name="data-engineering"></a> **Data Engineering**
+
+- [Грокаем стриминг](../books/software-engineering/data-engineering/Grokking%20Streaming%20Systems)
 
 ##### <a name="design-patterns"></a> **Design Patterns**
 
