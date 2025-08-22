@@ -38,6 +38,7 @@ Perfect for beginners and advanced developers.
 - [Deep Learning](#deep-learning)
 - [Foundations](#foundations)
 - [Machine Learning](#machine-learning)
+- [Reinforcement Learning](#reinforcement-learning)
 
 [*Computer Science*](#computer-science)
 
@@ -49,6 +50,7 @@ Perfect for beginners and advanced developers.
 
 [*DevOps*](#devops)
 
+- [CI/CD](#ci-cd)
 - [Docker](#docker)
 - [Git](#git)
 - [Kubernetes](#kubernetes)
@@ -165,6 +167,7 @@ Perfect for beginners and advanced developers.
 
 ##### <a name="deep-learning-cs"></a> **Deep Learning**
 
+- [Generative Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Generative%20Deep%20Learning)
 - [Grokking Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
 
 ##### <a name="foundations"></a> **Foundations**
@@ -174,6 +177,10 @@ Perfect for beginners and advanced developers.
 ##### <a name="machine-learning-cs"></a> **Machine Learning**
 
 - [Grokking Machine Learning](books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
+
+##### <a name="reinforcement-learning-cs"></a> **Reinforcement Learning**
+
+- [Grokking Deep Reinforcement Learning](books/artificial-Intelligence-machine-learning/reinforcement-learning/Grokking%20Deep%20Reinforcement%20Learning)
 
 #
 
@@ -207,6 +214,10 @@ Perfect for beginners and advanced developers.
 ### <a name="devops"></a> **DevOps**
 
 - [Release it! Design and Deploy Production-Ready Software](books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+
+##### <a name="ci-cd"></a> **CI/CD**
+
+- [Grokking Continuous Delivery](books/devops/ci-cd/Grokking%20Continuous%20Delivery)
 
 ##### <a name="docker"></a> **Docker**
 

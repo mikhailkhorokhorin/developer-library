@@ -38,6 +38,7 @@
 - [Deep Learning](#deep-learning)
 - [Foundations](#foundations)
 - [Machine Learning](#machine-learning)
+- [Reinforcement Learning](#reinforcement-learning)
 
 [*Computer Science*](#computer-science)
 
@@ -49,6 +50,7 @@
 
 [*DevOps*](#devops)
 
+- [CI/CD](#ci-cd)
 - [Docker](#docker)
 - [Git](#git)
 - [Kubernetes](#kubernetes)
@@ -165,6 +167,7 @@
 
 ##### <a name="deep-learning-cs"></a> **Deep Learning**
 
+- [Генеративное глубокое обучение](../books/artificial-Intelligence-machine-learning/deep-learning/Generative%20Deep%20Learning)
 - [Грокаем глубокое обучение](../books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
 
 ##### <a name="foundations"></a> **Foundations**
@@ -174,6 +177,11 @@
 ##### <a name="machine-learning-cs"></a> **Machine Learning**
 
 - [Грокаем машинное обучение](../books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
+-
+
+##### <a name="reinforcement-learning-cs"></a> **Reinforcement Learning**
+
+- [Грокаем глубокое обучение с подкреплением](../books/artificial-Intelligence-machine-learning/reinforcement-learning/Grokking%20Deep%20Reinforcement%20Learning)
 
 #
 
@@ -206,6 +214,10 @@
 ### <a name="devops"></a> **DevOps**
 
 - [Release it! Проектирование и дизайн ПО для тех, кому не всё равно](../books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+
+##### <a name="ci-cd"></a> **CI/CD**
+
+- [Грокаем continuous delivery](../books/devops/ci-cd/Grokking%20Continuous%20Delivery)
 
 ##### <a name="docker"></a> **Docker**
 
