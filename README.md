@@ -19,69 +19,69 @@ Perfect for beginners and advanced developers.
 
 [*Agile*](#agile)
 
-- [Kanban](#kanban)
-- [Scrum](#scrum)
+- [Kanban](#agile_kanban)
+- [Scrum](#agile_scrum)
 
 [*Algorithms and Data Structures*](#algorithms-data-structures)
 
-- [Java](#java-alg)
-- [Python](#python-alg)
+- [Java](#algorithms-data-structures_java)
+- [Python](#algorithms-data-structures_python)
 
 [*API*](#api)
 
 [*Architecture*](#architecture)
 
-- [Python](#python-arch)
+- [Python](#architecture_python)
 
-[*Artificial Intelligence And Machine Learning*](#artificial-Intelligence-machine-learning)
+[*Artificial Intelligence And Machine Learning*](#artificial-intelligence-machine-learning)
 
-- [Deep Learning](#deep-learning)
-- [Foundations](#foundations)
-- [Machine Learning](#machine-learning)
-- [Reinforcement Learning](#reinforcement-learning)
+- [Deep Learning](#artificial-intelligence-machine-learning_deep-learning)
+- [Foundations](#artificial-intelligence-machine-learning_foundations)
+- [Machine Learning](#artificial-intelligence-machine-learning_machine-learning)
+- [Reinforcement Learning](#artificial-intelligence-machine-learning_reinforcement-learning)
 
 [*Computer Science*](#computer-science)
 
-- [Python](#python-cs)
+- [Python](#computer-science_python)
 
 [*Databases*](#databases)
 
-- [SQL](#sql)
+- [SQL](#databases_sql)
 
 [*DevOps*](#devops)
 
-- [CI/CD](#ci-cd)
-- [Docker](#docker)
-- [Git](#git)
-- [Kubernetes](#kubernetes)
-- [Python](#python-devops)
+- [CI/CD](#devops_ci-cd)
+- [Docker](#devops_docker)
+- [Git](#devops_git)
+- [Kubernetes](#devops_kubernetes)
+- [Python](#devops_python)
 
 [*Interview*](#interview)
 
 [*Paradigms*](#paradigms)
 
-- [Functional Programming](#functional-programming)
-- [Object Oriented Programming](#object-oriented-programming)
+- [Functional Programming](#paradigms_functional-programming)
+- [Object Oriented Programming](#paradigms_object-oriented-programming)
 
 [*Programming Languages*](#programming-languages)
 
-- [JavaScript](#javascript)
-- [Python](#python)
-- [C#](#csharp)
+- [JavaScript](#programming-languages_javascript)
+- [Python](#programming-languages_python)
+- [C#](#programming-languages_csharp)
 
 [*Soft Skills*](#soft-skills)
 
 [*Software Engineering*](#software-engineering)
 
-- [Clean Code](#clean-code)
-- [Concurrency And Parallelism](#concurrency-parallelism)
-- [Data Engineering](#data-engineering)
-- [Design Patterns](#design-patterns)
-- [Refactoring](#refactoring)
+- [Clean Code](#software-engineering_clean-code)
+- [Concurrency And Parallelism](#software-engineering_concurrency-parallelism)
+- [Data Engineering](#software-engineering_data-engineering)
+- [Design Patterns](#software-engineering_design-patterns)
+- [Refactoring](#software-engineering_refactoring)
 
 [*Testing*](#testing)
 
-- [TDD](#tdd)
+- [TDD](#testing_tdd)
 
 [Web Development](#web-development)
 
@@ -98,11 +98,11 @@ Perfect for beginners and advanced developers.
 - [Improving Agile Retrospectives](books/agile/_/Improving%20Agile%20Retrospectives)
 - [More Effective Agile](books/agile/_/More%20Effective%20Agile)
 
-##### <a name="kanban"></a> **Kanban**
+##### <a name="agile_kanban"></a> **Kanban**
 
 - [Kanban. Successful Evolutionaty Change for Your Technology Business](books/agile/kanban/Kanban.%20Successful%20Evolutionaty%20Change%20for%20Your%20Technology%20Business)
 
-##### <a name="scrum"></a> **Scrum**
+##### <a name="agile_scrum"></a> **Scrum**
 
 - [Scrum. Le guide pratique de la méthode agile la plus populaire](books/agile/scrum/Scrum.%20Le%20guide%20pratique%20de%20la%20méthode%20agile%20la%20plus%20populaire)
 - [Scrum. The Art of Doing Twice the Work in Half the Time](books/agile/scrum/Scrum.%20The%20Art%20of%20Doing%20Twice%20the%20Work%20in%20Half%20the%20Time)
@@ -129,12 +129,12 @@ Perfect for beginners and advanced developers.
 - [Real-World Algorithms. A Beginner's Guide](books/algorithms-data-structures/_/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
 - [The Algorithm Design Manual](books/algorithms-data-structures/_/The%20Algorithm%20Design%20Manual)
 
-##### <a name="java-alg"></a> **Java**
+##### <a name="algorithms-data-structures_java"></a> **Java**
 
 - [Data Structures & Algorithms in Java](books/algorithms-data-structures/java/Data%20Structures%20%26%20Algorithms%20in%20Java)
 - [Think Data Structures. Algorithms and Informatio Retrieval in Java](books/algorithms-data-structures/java/Think%20Data%20Structures.%20Algorithms%20and%20Informatio%20Retrieval%20in%20Java)
 
-##### <a name="python-alg"></a> **Python**
+##### <a name="algorithms-data-structures_python"></a> **Python**
 
 - [Dive Into Algorithms. A Pythonic Adventure for the Intrepid Beginner](books/algorithms-data-structures/python/Dive%20Into%20Algorithms.%20A%20Pythonic%20Adventure%20for%20the%20Intrepid%20Beginner)
 - [Learning Algorithms](books/algorithms-data-structures/python/Learning%20Algorithms)
@@ -157,28 +157,28 @@ Perfect for beginners and advanced developers.
 - [Domain Driven Design](books/architecture/_/Domain%20Driven%20Design)
 - [Patterns of Enterprise Application Architecture](books/architecture/_/Patterns%20of%20Enterprise%20Application%20Architecture)
 
-##### <a name="python-arch"></a> **Python**
+##### <a name="architecture_python"></a> **Python**
 
 - [Architecture Patterns with Python](books/architecture/python/Architecture%20Patterns%20with%20Python)
 
 #
 
-### <a name="artificial-Intelligence-machine-learning"></a> **Artificial Intelligence And Machine Learning**
+### <a name="artificial-intelligence-machine-learning"></a> **Artificial Intelligence And Machine Learning**
 
-##### <a name="deep-learning-cs"></a> **Deep Learning**
+##### <a name="artificial-intelligence-machine-learning_deep-learning-cs"></a> **Deep Learning**
 
 - [Generative Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Generative%20Deep%20Learning)
 - [Grokking Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
 
-##### <a name="foundations"></a> **Foundations**
+##### <a name="artificial-intelligence-machine-learning_foundations"></a> **Foundations**
 
 - [Grokking Artificial Intelligence Algorithms](books/artificial-Intelligence-machine-learning/foundations/Grokking%20Artificial%20Intelligence%20Algorithms)
 
-##### <a name="machine-learning-cs"></a> **Machine Learning**
+##### <a name="artificial-intelligence-machine-learning_machine-learning-cs"></a> **Machine Learning**
 
 - [Grokking Machine Learning](books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
 
-##### <a name="reinforcement-learning-cs"></a> **Reinforcement Learning**
+##### <a name="artificial-intelligence-machine-learning_reinforcement-learning-cs"></a> **Reinforcement Learning**
 
 - [Grokking Deep Reinforcement Learning](books/artificial-Intelligence-machine-learning/reinforcement-learning/Grokking%20Deep%20Reinforcement%20Learning)
 
@@ -194,7 +194,7 @@ Perfect for beginners and advanced developers.
 - [The Art of Computer Programming. Volume 4A. Combinatorial Algorithms](books/computer-science/_/The%20Art%20of%20Computer%20Programming.%20Volume%204A.%20Combinatorial%20Algorithms)
 - [The Self-Taught Computer Scientist](books/computer-science/_/The%20Self-Taught%20Computer%20Scientist)
 
-##### <a name="python-cs"></a> **Python**
+##### <a name="computer-science_python"></a> **Python**
 
 - [Classic Computer Science Problems in Python](books/computer-science/python/Classic%20Computer%20Science%20Problems%20in%20Python)
 
@@ -202,7 +202,7 @@ Perfect for beginners and advanced developers.
 
 ### <a name="databases"></a> **Databases**
 
-##### <a name="sql"></a> **SQL**
+##### <a name="databases_sql"></a> **SQL**
 
 - [Learning SQL](books/databases/sql/Learning%20SQL)
 - [SQL Antipatterns](books/databases/sql/SQL%20Antipatterns)
@@ -215,28 +215,28 @@ Perfect for beginners and advanced developers.
 
 - [Release it! Design and Deploy Production-Ready Software](books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
 
-##### <a name="ci-cd"></a> **CI/CD**
+##### <a name="devops_ci-cd"></a> **CI/CD**
 
 - [Grokking Continuous Delivery](books/devops/ci-cd/Grokking%20Continuous%20Delivery)
 
-##### <a name="docker"></a> **Docker**
+##### <a name="devops_docker"></a> **Docker**
 
 - [Docker. Up & Running](/books/devops/docker/Docker.%20Up%20&%20Running)
 
-##### <a name="git"></a> **Git**
+##### <a name="devops_git"></a> **Git**
 
 - [Head First. Git](books/devops/git/Head%20First.%20Git)
 - [Learning Git](books/devops/git/Learning%20Git)
 - [Pro Git](books/devops/git/Pro%20Git)
 - [Version Control with Git](books/devops/git/Version%20Control%20with%20Git)
 
-##### <a name="kubernetes"></a> **Kubernetes**
+##### <a name="devops_kubernetes"></a> **Kubernetes**
 
 - [Cloud Native DevOps with Kubernetes](books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
 - [Kubernetes Patterns](books/devops/kubernetes/Kubernetes%20Patterns)
 - [Production Kubernetes](books/devops/kubernetes/Production%20Kubernetes)
 
-##### <a name="python-devops"></a> **Python**
+##### <a name="devops_python"></a> **Python**
 
 - [Python for DevOps](books/devops/python/Python%20for%20DevOps)
 
@@ -250,11 +250,11 @@ Perfect for beginners and advanced developers.
 
 ### <a name="paradigms"></a> **Paradigms**
 
-##### <a name="functional-programming"></a> **Functional Programming**
+##### <a name="paradigms_functional-programming"></a> **Functional Programming**
 
 - [Grokking Simplicity](books/paradigms/functional-programming/Grokking%20Simplicity)
 
-##### <a name="object-oriented-programming"></a> **Object Oriented Programming**
+##### <a name="paradigms_object-oriented-programming"></a> **Object Oriented Programming**
 
 - [The Object-Oriented Thought Process](books/paradigms/object-oriented-programming/The%20Object-Oriented%20Thought%20Process)
 
@@ -262,11 +262,11 @@ Perfect for beginners and advanced developers.
 
 ### <a name="programming-languages"></a> **Programming Languages**
 
-##### <a name="javascript"></a> **JavaScript**
+##### <a name="programming-languages_javascript"></a> **JavaScript**
 
 - [JavaScript Cookbook](books/programming-languages/javascript/JavaScript%20Cookbook)
 
-##### <a name="python"></a> **Python**
+##### <a name="programming-languages_python"></a> **Python**
 
 - [15 énigmes ludiques pour sinitier à la programmation Python](books/programming-languages/python/15%20énigmes%20ludiques%20pour%20sinitier%20à%20la%20programmation%20Python)
 - [Fast Python High performance techniques for large datasets](books/programming-languages/python/Fast%20Python%20High%20performance%20techniques%20for%20large%20datasets)
@@ -274,7 +274,7 @@ Perfect for beginners and advanced developers.
 - [Python Concurrency with asyncio](/books/programming-languages/python/Python%20Concurrency%20with%20asyncio)
 - [Python Object-Oriented Programming](books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
-##### <a name="csharp"></a> **C#**
+##### <a name="programming-languages_csharp"></a> **C#**
 
 - [CLR via C#](books/programming-languages/с-sharp/CLR%20via%20C-Sharp)
 
@@ -297,7 +297,7 @@ Perfect for beginners and advanced developers.
 - [The Pragmatic Programmer](books/software-engineering/_/The%20Pragmatic%20Programmer)
 - [Weniger Schlecht Programmieren](books/software-engineering/_/Weniger%20Schlecht%20Programmieren)
 
-##### <a name="clean-code"></a> **Clean Code**
+##### <a name="software-engineering_clean-code"></a> **Clean Code**
 
 - [Clean Architecture](books/software-engineering/clean-code/Clean%20Architecture)
 - [Clean Code](books/software-engineering/clean-code/Clean%20Code)
@@ -308,20 +308,20 @@ Perfect for beginners and advanced developers.
 - [The Programmer's Brain](books/software-engineering/clean-code/The%20Programmer's%20Brain)
 - [Working Effectively with Legacy Code](books/software-engineering/clean-code/Working%20Effectively%20with%20Legacy%20Code)
 
-##### <a name="concurrency-parallelism"></a> **Concurrency And Parallelism**
+##### <a name="software-engineering_concurrency-parallelism"></a> **Concurrency And Parallelism**
 
 - [Grokking Concurrency](books/software-engineering/concurrency-parallelism/Grokking%20Concurrency)
 
-##### <a name="data-engineering"></a> **Data Engineering**
+##### <a name="software-engineering_data-engineering"></a> **Data Engineering**
 
 - [Grokking Streaming Systems](books/software-engineering/data-engineering/Grokking%20Streaming%20Systems)
 
-##### <a name="design-patterns"></a> **Design Patterns**
+##### <a name="software-engineering_design-patterns"></a> **Design Patterns**
 
 - [Design Patterns. Elements of Reusable Object-Oriented Software](books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
 - [Head First. Design Patterns](books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
 
-##### <a name="refactoring"></a> **Refactoring**
+##### <a name="software-engineering_refactoring"></a> **Refactoring**
 
 - [Refactoring. Improving the Design of Existing Code](books/software-engineering/refactoring/Refactoring.%20Improving%20the%20Design%20of%20Existing%20Code)
 
@@ -329,7 +329,7 @@ Perfect for beginners and advanced developers.
 
 ### <a name="testing"></a> **Testing**
 
-##### <a name="tdd"></a> **TDD**
+##### <a name="testing_tdd"></a> **TDD**
 
 - [Test-Driven Development By Example](books/testing/tdd/Test-Driven%20Development%20By%20Example)
 
