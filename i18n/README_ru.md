@@ -67,6 +67,7 @@
 
 - [JavaScript](#programming-languages_javascript)
 - [Python](#programming-languages_python)
+- [Swift](#programming-languages_swift)
 - [C#](#programming-languages_csharp)
 
 [*Soft Skills*](#soft-skills)
@@ -77,6 +78,7 @@
 - [Concurrency And Parallelism](#software-engineering_concurrency-parallelism)
 - [Data Engineering](#software-engineering_data-engineering)
 - [Design Patterns](#software-engineering_design-patterns)
+- [Mobile Development](#software-engineering_mobile-development)
 - [Refactoring](#software-engineering_refactoring)
 
 [*Testing*](#testing)
@@ -273,9 +275,14 @@
 - [Asyncio и конкурентное программирование на Python](../books/programming-languages/python/Python%20Concurrency%20with%20asyncio)
 - [Объектно-ориентированный Python](../books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
+##### <a name="programming-languages_swift"></a> **Swift**
+
+- [Head First. Swift](../books/programming-languages/swift/Head%20First.%20Swift)
+
 ##### <a name="programming-languages_csharp"></a> **C#**
 
 - [CLR via C#](../books/programming-languages/с-sharp/CLR%20via%20C-Sharp)
+- [Head First. C#](../books/programming-languages/с-sharp/Head%20First.%20C-Sharp)
 
 #
 
@@ -317,6 +324,10 @@
 
 - [Паттерны объектно-ориентированного проектирования](../books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
 - [Head First. Паттерны проектирования](../books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
+
+##### <a name="software-engineering_mobile-development"></a> **Mobile Development**
+
+- [Head First. Программирование для Android на Kotlin](../books/software-engineering/mobile-development/Head%20First.%20Android%20Development)
 
 ##### <a name="software-engineering_refactoring"></a> **Refactoring**
 

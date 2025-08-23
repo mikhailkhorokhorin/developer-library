@@ -67,6 +67,7 @@ Perfect for beginners and advanced developers.
 
 - [JavaScript](#programming-languages_javascript)
 - [Python](#programming-languages_python)
+- [Swift](#programming-languages_swift)
 - [C#](#programming-languages_csharp)
 
 [*Soft Skills*](#soft-skills)
@@ -77,6 +78,7 @@ Perfect for beginners and advanced developers.
 - [Concurrency And Parallelism](#software-engineering_concurrency-parallelism)
 - [Data Engineering](#software-engineering_data-engineering)
 - [Design Patterns](#software-engineering_design-patterns)
+- [Mobile Development](#software-engineering_mobile-development)
 - [Refactoring](#software-engineering_refactoring)
 
 [*Testing*](#testing)
@@ -274,9 +276,14 @@ Perfect for beginners and advanced developers.
 - [Python Concurrency with asyncio](/books/programming-languages/python/Python%20Concurrency%20with%20asyncio)
 - [Python Object-Oriented Programming](books/programming-languages/python/Python%20Object-Oriented%20Programming)
 
+##### <a name="programming-languages_swift"></a> **Swift**
+
+- [Head First. Swift](books/programming-languages/swift/Head%20First.%20Swift)
+
 ##### <a name="programming-languages_csharp"></a> **C#**
 
 - [CLR via C#](books/programming-languages/с-sharp/CLR%20via%20C-Sharp)
+- [Head First. C#](books/programming-languages/с-sharp/Head%20First.%20C-Sharp)
 
 #
 
@@ -320,6 +327,10 @@ Perfect for beginners and advanced developers.
 
 - [Design Patterns. Elements of Reusable Object-Oriented Software](books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
 - [Head First. Design Patterns](books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
+
+##### <a name="software-engineering_mobile-development"></a> **Mobile Development**
+
+- [Head First. Android Development](books/software-engineering/mobile-development/Head%20First.%20Android%20Development)
 
 ##### <a name="software-engineering_refactoring"></a> **Refactoring**
 
