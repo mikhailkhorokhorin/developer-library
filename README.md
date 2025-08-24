@@ -95,10 +95,13 @@ Perfect for beginners and advanced developers.
 
 ### <a name="agile"></a> **Agile**
 
+- [Agile Estimating and Planning](books/agile/_/Agile%20Estimating%20and%20Planning)
 - [Brilliant Agile Project Management](books/agile/_/Brilliant%20Agile%20Project%20Management)
 - [Clean Agile](books/agile/_/Clean%20Agile)
 - [Improving Agile Retrospectives](books/agile/_/Improving%20Agile%20Retrospectives)
+- [Management 3.0](books/agile/_/Management%203.0)
 - [More Effective Agile](books/agile/_/More%20Effective%20Agile)
+- [The Age of Agile](books/agile/_/The%20Age%20of%20Agile)
 
 ##### <a name="agile_kanban"></a> **Kanban**
 

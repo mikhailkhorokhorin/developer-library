@@ -95,10 +95,13 @@
 
 ### <a name="agile"></a> **Agile**
 
+- [Agile. Oценка и планирование проектов](../books/agile/_/Agile%20Estimating%20and%20Planning)
 - [Блистательный Agile](../books/agile/_/Brilliant%20Agile%20Project%20Management)
 - [Чистый Agile](../books/agile/_/Clean%20Agile)
 - [Ретроспектива в Agile](../books/agile/_/Improving%20Agile%20Retrospectives)
+- [Agile-менеджмент](../books/agile/_/Management%203.0)
 - [Еще более эффективный Agile](../books/agile/_/More%20Effective%20Agile)
+- [Эпоха Agile](../books/agile/_/The%20Age%20of%20Agile)
 
 ##### <a name="agile_kanban"></a> **Kanban**
 
