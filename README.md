@@ -99,6 +99,7 @@ Perfect for beginners and advanced developers.
 - [Brilliant Agile Project Management](books/agile/_/Brilliant%20Agile%20Project%20Management)
 - [Clean Agile](books/agile/_/Clean%20Agile)
 - [Improving Agile Retrospectives](books/agile/_/Improving%20Agile%20Retrospectives)
+- [Learning Agile](books/agile/_/Learning%20Agile)
 - [Management 3.0](books/agile/_/Management%203.0)
 - [More Effective Agile](books/agile/_/More%20Effective%20Agile)
 - [The Age of Agile](books/agile/_/The%20Age%20of%20Agile)
@@ -131,6 +132,7 @@ Perfect for beginners and advanced developers.
 - [Grokking Algorithms](books/algorithms-data-structures/_/Grokking%20Algorithms)
 - [Hacker's Delight](books/algorithms-data-structures/_/Hacker's%20Delight)
 - [Introduction to Algorithms](books/algorithms-data-structures/_/Introduction%20to%20Algorithms)
+- [Pearls of Functional Algorithm Design](books/algorithms-data-structures/_/Pearls%20of%20Functional%20Algorithm%20Design)
 - [Real-World Algorithms. A Beginner's Guide](books/algorithms-data-structures/_/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
 - [The Algorithm Design Manual](books/algorithms-data-structures/_/The%20Algorithm%20Design%20Manual)
 
@@ -329,6 +331,7 @@ Perfect for beginners and advanced developers.
 ##### <a name="software-engineering_design-patterns"></a> **Design Patterns**
 
 - [Design Patterns. Elements of Reusable Object-Oriented Software](books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
+- [Elemental Design Patterns](books/software-engineering/design-patterns/Elemental%20Design%20Patterns)
 - [Head First. Design Patterns](books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
 
 ##### <a name="software-engineering_mobile-development"></a> **Mobile Development**

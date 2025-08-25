@@ -99,6 +99,7 @@
 - [Блистательный Agile](../books/agile/_/Brilliant%20Agile%20Project%20Management)
 - [Чистый Agile](../books/agile/_/Clean%20Agile)
 - [Ретроспектива в Agile](../books/agile/_/Improving%20Agile%20Retrospectives)
+- [Постигая Agile](../books/agile/_/Learning%20Agile)
 - [Agile-менеджмент](../books/agile/_/Management%203.0)
 - [Еще более эффективный Agile](../books/agile/_/More%20Effective%20Agile)
 - [Эпоха Agile](../books/agile/_/The%20Age%20of%20Agile)
@@ -131,6 +132,7 @@
 - [Грокаем алгоритмы](../books/algorithms-data-structures/_/Grokking%20Algorithms)
 - [Алгоритмические трюки для программистов](../books/algorithms-data-structures/_/Hacker's%20Delight)
 - [Алгоритмы. Построение и анализ](../books/algorithms-data-structures/_/Introduction%20to%20Algorithms)
+- [Жемчужины проектирования алгоритмов](../books/algorithms-data-structures/_/Pearls%20of%20Functional%20Algorithm%20Design)
 - [Алгоритмы для начинающих. Tеория и практика для разработчика](../books/algorithms-data-structures/_/Real-World%20Algorithms.%20A%20Beginner's%20Guide)
 - [Алгоритмы. Руководство по разработке](../books/algorithms-data-structures/_/The%20Algorithm%20Design%20Manual)
 
@@ -326,6 +328,7 @@
 ##### <a name="software-engineering_design-patterns"></a> **Design Patterns**
 
 - [Паттерны объектно-ориентированного проектирования](../books/software-engineering/design-patterns/Design%20Patterns.%20Elements%20of%20Reusable%20Object-Oriented%20Software)
+- [Элементарные шаблоны проектирования](../books/software-engineering/design-patterns/Elemental%20Design%20Patterns)
 - [Head First. Паттерны проектирования](../books/software-engineering/design-patterns/Head%20First.%20Design%20Patterns)
 
 ##### <a name="software-engineering_mobile-development"></a> **Mobile Development**
