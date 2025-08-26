@@ -184,6 +184,7 @@
 ##### <a name="artificial-intelligence-machine-learning_machine-learning-cs"></a> **Machine Learning**
 
 - [Грокаем машинное обучение](../books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
+- [Машинное обучение](../books/artificial-Intelligence-machine-learning/machine-learning/Real-World%20Machine%20Learning)
 
 ##### <a name="artificial-intelligence-machine-learning_reinforcement-learning-cs"></a> **Reinforcement Learning**
 
@@ -239,6 +240,7 @@
 ##### <a name="devops_kubernetes"></a> **Kubernetes**
 
 - [Kubernetes для DevOps](../books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
+- [Kubernetes для разработчиков](../books/devops/kubernetes/Kubernetes%20for%20Developers)
 - [Паттерны Kubernetes](../books/devops/kubernetes/Kubernetes%20Patterns)
 - [Kubernetes на практике](../books/devops/kubernetes/Production%20Kubernetes)
 
@@ -313,6 +315,7 @@
 - [Идеальная работа](../books/software-engineering/clean-code/Clean%20Craftsmanship)
 - [Совершенный код](../books/software-engineering/clean-code/Code%20Complete)
 - [Искусство чистого кода](../books/software-engineering/clean-code/The%20Art%20of%20Clean%20Code)
+- [Читаемый код](../books/software-engineering/clean-code/The%20Art%20of%20Readable%20Code)
 - [Идеальный программист](../books/software-engineering/clean-code/The%20Clean%20Coder)
 - [Ум программиста](../books/software-engineering/clean-code/The%20Programmer's%20Brain)
 - [Эффективная работа с унаследованным кодом](../books/software-engineering/clean-code/Working%20Effectively%20with%20Legacy%20Code)

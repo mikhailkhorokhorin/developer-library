@@ -184,6 +184,7 @@ Perfect for beginners and advanced developers.
 ##### <a name="artificial-intelligence-machine-learning_machine-learning-cs"></a> **Machine Learning**
 
 - [Grokking Machine Learning](books/artificial-Intelligence-machine-learning/machine-learning/Grokking%20Machine%20Learning)
+- [Real-World Machine Learning](books/artificial-Intelligence-machine-learning/machine-learning/Real-World%20Machine%20Learning)
 
 ##### <a name="artificial-intelligence-machine-learning_reinforcement-learning-cs"></a> **Reinforcement Learning**
 
@@ -240,6 +241,7 @@ Perfect for beginners and advanced developers.
 ##### <a name="devops_kubernetes"></a> **Kubernetes**
 
 - [Cloud Native DevOps with Kubernetes](books/devops/kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes)
+- [Kubernetes for Developers](books/devops/kubernetes/Kubernetes%20for%20Developers)
 - [Kubernetes Patterns](books/devops/kubernetes/Kubernetes%20Patterns)
 - [Production Kubernetes](books/devops/kubernetes/Production%20Kubernetes)
 
@@ -316,6 +318,7 @@ Perfect for beginners and advanced developers.
 - [Clean Craftsmanship](books/software-engineering/clean-code/Clean%20Craftsmanship)
 - [Code Complete](books/software-engineering/clean-code/Code%20Complete)
 - [The Art of Clean Code](books/software-engineering/clean-code/The%20Art%20of%20Clean%20Code)
+- [The Art of Readable Code](books/software-engineering/clean-code/The%20Art%20of%20Readable%20Code)
 - [The Clean Coder](books/software-engineering/clean-code/The%20Clean%20Coder)
 - [The Programmer's Brain](books/software-engineering/clean-code/The%20Programmer's%20Brain)
 - [Working Effectively with Legacy Code](books/software-engineering/clean-code/Working%20Effectively%20with%20Legacy%20Code)
