@@ -35,8 +35,8 @@ Perfect for beginners and advanced developers.
 
 [*Artificial Intelligence And Machine Learning*](#artificial-intelligence-machine-learning)
 
+- [Artificial Intelligence](#artificial-intelligence-machine-learning_artificial-intelligence)
 - [Deep Learning](#artificial-intelligence-machine-learning_deep-learning)
-- [Foundations](#artificial-intelligence-machine-learning_foundations)
 - [Machine Learning](#artificial-intelligence-machine-learning_machine-learning)
 - [Reinforcement Learning](#artificial-intelligence-machine-learning_reinforcement-learning)
 
@@ -172,14 +172,15 @@ Perfect for beginners and advanced developers.
 
 ### <a name="artificial-intelligence-machine-learning"></a> **Artificial Intelligence And Machine Learning**
 
+##### <a name="artificial-intelligence-machine-learning_artificial-intelligence-cs"></a> **Artificial Intelligence**
+
+- [Artificial Intelligence For Dummies](books/artificial-Intelligence-machine-learning/artificial-Intelligence/Artificial%20Intelligence%20For%20Dummies)
+- [Grokking Artificial Intelligence Algorithms](books/artificial-Intelligence-machine-learning/artificial-Intelligence/Grokking%20Artificial%20Intelligence%20Algorithms)
+
 ##### <a name="artificial-intelligence-machine-learning_deep-learning-cs"></a> **Deep Learning**
 
 - [Generative Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Generative%20Deep%20Learning)
 - [Grokking Deep Learning](books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
-
-##### <a name="artificial-intelligence-machine-learning_foundations"></a> **Foundations**
-
-- [Grokking Artificial Intelligence Algorithms](books/artificial-Intelligence-machine-learning/foundations/Grokking%20Artificial%20Intelligence%20Algorithms)
 
 ##### <a name="artificial-intelligence-machine-learning_machine-learning-cs"></a> **Machine Learning**
 
@@ -188,7 +189,9 @@ Perfect for beginners and advanced developers.
 
 ##### <a name="artificial-intelligence-machine-learning_reinforcement-learning-cs"></a> **Reinforcement Learning**
 
+- [Foundations of Deep Reinforcement Learning](books/artificial-Intelligence-machine-learning/reinforcement-learning/Foundations%20of%20Deep%20Reinforcement%20Learning)
 - [Grokking Deep Reinforcement Learning](books/artificial-Intelligence-machine-learning/reinforcement-learning/Grokking%20Deep%20Reinforcement%20Learning)
+- [Reinforcement Learning](books/artificial-Intelligence-machine-learning/reinforcement-learning/Reinforcement%20Learning)
 
 #
 

@@ -35,8 +35,8 @@
 
 [*Artificial Intelligence And Machine Learning*](#artificial-intelligence-machine-learning)
 
+- [Artificial Intelligence](#artificial-intelligence-machine-learning_artificial-intelligence)
 - [Deep Learning](#artificial-intelligence-machine-learning_deep-learning)
-- [Foundations](#artificial-intelligence-machine-learning_foundations)
 - [Machine Learning](#artificial-intelligence-machine-learning_machine-learning)
 - [Reinforcement Learning](#artificial-intelligence-machine-learning_reinforcement-learning)
 
@@ -172,14 +172,15 @@
 
 ### <a name="artificial-intelligence-machine-learning"></a> **Artificial Intelligence And Machine Learning**
 
+##### <a name="artificial-intelligence-machine-learning_artificial-intelligence-cs"></a> **Artificial Intelligence**
+
+- [Искусственный интеллект для чайников](../books/artificial-Intelligence-machine-learning/artificial-Intelligence/Artificial%20Intelligence%20For%20Dummies)
+- [Грокаем алгоритмы искусственного интеллекта](../books/artificial-Intelligence-machine-learning/artificial-Intelligence/Grokking%20Artificial%20Intelligence%20Algorithms)
+
 ##### <a name="artificial-intelligence-machine-learning_deep-learning-cs"></a> **Deep Learning**
 
 - [Генеративное глубокое обучение](../books/artificial-Intelligence-machine-learning/deep-learning/Generative%20Deep%20Learning)
 - [Грокаем глубокое обучение](../books/artificial-Intelligence-machine-learning/deep-learning/Grokking%20Deep%20Learning)
-
-##### <a name="artificial-intelligence-machine-learning_foundations"></a> **Foundations**
-
-- [Грокаем алгоритмы искусcтвенного интеллекта](../books/artificial-Intelligence-machine-learning/foundations/Grokking%20Artificial%20Intelligence%20Algorithms)
 
 ##### <a name="artificial-intelligence-machine-learning_machine-learning-cs"></a> **Machine Learning**
 
@@ -188,7 +189,9 @@
 
 ##### <a name="artificial-intelligence-machine-learning_reinforcement-learning-cs"></a> **Reinforcement Learning**
 
+- [Глубокое обучение с подкреплением теория и практика на языке Python](../books/artificial-Intelligence-machine-learning/reinforcement-learning/Foundations%20of%20Deep%20Reinforcement%20Learning)
 - [Грокаем глубокое обучение с подкреплением](../books/artificial-Intelligence-machine-learning/reinforcement-learning/Grokking%20Deep%20Reinforcement%20Learning)
+- [Обучение с подкреплением для реальных задач](../books/artificial-Intelligence-machine-learning/reinforcement-learning/Reinforcement%20Learning)
 
 #
 
