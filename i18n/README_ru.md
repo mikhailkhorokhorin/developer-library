@@ -223,7 +223,9 @@
 
 ### <a name="devops"></a> **DevOps**
 
+- [DevOps для современного предприятия](../books/devops/_/DevOps%20for%20the%20Modern%20Enterprise)
 - [Release it! Проектирование и дизайн ПО для тех, кому не всё равно](../books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
+- [Безопасный DevOps](../books/devops/_/Securing%20DevOps%20Security%20in%20the%20Cloud)
 
 ##### <a name="devops_ci-cd"></a> **CI/CD**
 
@@ -325,6 +327,7 @@
 
 ##### <a name="software-engineering_concurrency-parallelism"></a> **Concurrency And Parallelism**
 
+- [Конкурентность в C#](../books/software-engineering/concurrency-parallelism/Concurrency%20in%20C-Sharp%20Cookbook)
 - [Грокаем конкурентность](../books/software-engineering/concurrency-parallelism/Grokking%20Concurrency)
 
 ##### <a name="software-engineering_data-engineering"></a> **Data Engineering**
