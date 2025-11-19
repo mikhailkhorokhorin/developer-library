@@ -55,6 +55,7 @@
 - [Git](#devops_git)
 - [Kubernetes](#devops_kubernetes)
 - [Python](#devops_python)
+- [SRE](#devops_sre)
 
 [*Interview*](#interview)
 
@@ -223,6 +224,7 @@
 
 ### <a name="devops"></a> **DevOps**
 
+- [Безопасные и надежные системы. Лучшие практики проектирования, внедрения и обслуживания как в Google](../books/devops/_/Building%20Secure%20and%20Reliable%20Systems)
 - [DevOps для современного предприятия](../books/devops/_/DevOps%20for%20the%20Modern%20Enterprise)
 - [Release it! Проектирование и дизайн ПО для тех, кому не всё равно](../books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
 - [Безопасный DevOps](../books/devops/_/Securing%20DevOps%20Security%20in%20the%20Cloud)
@@ -252,6 +254,10 @@
 ##### <a name="devops_python"></a> **Python**
 
 - [Python и DevOps](../books/devops/python/Python%20for%20DevOps)
+
+##### <a name="devops_sre"></a> **SRE**
+
+- [Site Reliability Engineering. Надежность и безотказность как в Google](../books/devops/sre/Site%20Reliability%20Engineering)
 
 #
 
@@ -309,6 +315,7 @@
 ### <a name="software-engineering"></a> **Software Engineering**
 
 - [Кодер с улицы. Правила нарушать рекомендуется](../books/software-engineering/_/Street%20Coder.%20The%20Rules%20to%20Break%20and%20How%20to%20Break)
+- [Производительность систем](../books/software-engineering/_/Systems%20Performance)
 - [Мифический человеко-месяц. Как создаются программные системы](../books/software-engineering/_/The%20Mythical%20Man-Month.%20Essays%20on%20Software%20Engineering)
 - [Программист-прагматик](../books/software-engineering/_/The%20Pragmatic%20Programmer)
 - [Программирование без дураков](../books/software-engineering/_/Weniger%20Schlecht%20Programmieren)
@@ -366,6 +373,7 @@
 
 ### <a name="other"></a> **Other**
 
+- [Чёрный лебедь](../books/other/Black%20Swan)
 - [Веб-дизайн или не заставляйте меня думать!](../books/other/Coders%20at%20Work.%20Reflections%20on%20the%20Craft%20od%20Programming)
 
 #

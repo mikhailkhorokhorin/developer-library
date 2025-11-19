@@ -55,6 +55,7 @@ Perfect for beginners and advanced developers.
 - [Git](#devops_git)
 - [Kubernetes](#devops_kubernetes)
 - [Python](#devops_python)
+- [SRE](#devops_sre)
 
 [*Interview*](#interview)
 
@@ -224,6 +225,7 @@ Perfect for beginners and advanced developers.
 
 ### <a name="devops"></a> **DevOps**
 
+- [Building Secure and Reliable Systems. Best Practices for Designing, Implementing, and Maintaining Systems](books/devops/_/Building%20Secure%20and%20Reliable%20Systems)
 - [DevOps for the Modern Enterprise](books/devops/_/DevOps%20for%20the%20Modern%20Enterprise)
 - [Release it! Design and Deploy Production-Ready Software](books/devops/_/Release%20it!%20Design%20and%20Deploy%20Production-Ready%20Software)
 - [Securing DevOps Security in the Cloud](books/devops/_/Securing%20DevOps%20Security%20in%20the%20Cloud)
@@ -253,6 +255,10 @@ Perfect for beginners and advanced developers.
 ##### <a name="devops_python"></a> **Python**
 
 - [Python for DevOps](books/devops/python/Python%20for%20DevOps)
+
+##### <a name="devops_sre"></a> **SRE**
+
+- [Site Reliability Engineering. How Google Runs Production Systems](books/devops/sre/Site%20Reliability%20Engineering)
 
 #
 
@@ -311,6 +317,7 @@ Perfect for beginners and advanced developers.
 ### <a name="software-engineering"></a> **Software Engineering**
 
 - [Street Coder. The Rules to Break and How to Break](books/software-engineering/_/Street%20Coder.%20The%20Rules%20to%20Break%20and%20How%20to%20Break)
+- [Systems Performance](books/software-engineering/_/Systems%20Performance)
 - [The Mythical Man-Month. Essays on Software Engineering
   ](books/software-engineering/_/The%20Mythical%20Man-Month.%20Essays%20on%20Software%20Engineering)
 - [The Pragmatic Programmer](books/software-engineering/_/The%20Pragmatic%20Programmer)
@@ -370,6 +377,7 @@ Perfect for beginners and advanced developers.
 
 ### <a name="other"></a> **Other**
 
+- [Black Swan](books/other/Black%20Swan)
 - [Coders at Work. Reflections on the Craft od Programming
   ](books/other/Coders%20at%20Work.%20Reflections%20on%20the%20Craft%20od%20Programming)
 
